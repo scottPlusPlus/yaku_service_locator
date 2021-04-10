@@ -1,0 +1,22 @@
+{
+	"name": "yaku_service_locator",
+	"url": "https://github.com/scottPlusPlus/yaku_service_locator",
+	"license": "MIT",
+	"tags": [
+		"wip"
+	],
+	"description": "YAKU: Yet Another Kollection of Utils.  ServiceLocator is an anti pattern.  But sometimes you feel like misbehaving.  On that day, YAKU is here for you.",
+	"version": "0.0.1",
+	"releasenote": "tbd",
+	"contributors": [
+		"scottPlusPlus"
+	],
+	"classPath": "src",
+	"dependencies": {
+		"utest": "",
+		"zenlog": "",
+		"tink_core": "",
+		"compiletime" :"",
+		"yaku_core" : ""
+	}
+}
